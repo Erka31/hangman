@@ -1,0 +1,36 @@
+.img {
+  background-color: rgba(146, 194, 0, 0.73);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vw;
+  z-index: -2;
+}
+
+.words {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  height: 20px;
+}
+
+.words2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+
+.underline {
+  display: flex;
+  gap: 5px;
+}
