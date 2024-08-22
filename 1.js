@@ -4,7 +4,7 @@ const underlines = document.getElementById("underline");
 const underline = document.getElementsByClassName("1a");
 const lives = document.getElementById("lives");
 const alphabet = "abcdefghijklmnopqrstuvwxyz";
-let result = "erhme";
+let result = "tokyo";
 let live = 10;
 
 for (let i = 0; i < alphabet.length; i++) {
